@@ -9,3 +9,8 @@ int main(void) {
 	greet();
 	return 0;
 }
+
+void greetings(void) {
+	printf("Bonjour\n");
+	return;
+}
